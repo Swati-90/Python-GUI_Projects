@@ -19,4 +19,5 @@ Tkinter is the standard GUI library for Python. Python when combined with Tkinte
 <img src="Calculator/Images/Advanced.PNG" width = 250 height = 250/>
 
 <b>3. Digital Clock:</b> This is a display digital clock that will show time as per the system.
+
 <img src="Digital Clock/Images/Capture.PNG" width = 250 height = 100/>
