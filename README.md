@@ -10,5 +10,7 @@ Tkinter is the standard GUI library for Python. Python when combined with Tkinte
 ![Image](https://user-images.githubusercontent.com/54545471/110922714-0765e600-8346-11eb-9a76-ee4c1d1f9ab0.png)
 
 <b>2. Calculator:</b> These are the calculator built using Tkinter in Python. This folder contains two different calcukator codes.
+
 <b>-Simple Calulator:</b> This calculator replicates the operations of addition, minus, multiplication and division. 
+
 <b>-Advanced Calulator:</b> This calculator replicates the operations of simple calculator and additionally it helps you to calculate the mod, factorialm exponential and square of the given value. 
