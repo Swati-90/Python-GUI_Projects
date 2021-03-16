@@ -24,4 +24,4 @@ Tkinter is the standard GUI library for Python. Python when combined with Tkinte
 
 <b>4. Tip Calcuator:</b> This is a tip calculator gui in which you can calculate the % of tip(0% to 30%) you want to offer to the waiter and return result will be the summision  amount of bill and tip amount calculate basis the bill.
 
-<img src="Tip Calculator/Image/Capture.PNG" width = 100 height = 250/>
+<img src="Tip Calculator/Image/Capture.PNG" width = 250 height = 250/>
