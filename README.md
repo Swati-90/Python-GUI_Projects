@@ -21,3 +21,7 @@ Tkinter is the standard GUI library for Python. Python when combined with Tkinte
 <b>3. Digital Clock:</b> This is a display digital clock that will show time as per the system.
 
 <img src="Digital Clock/Images/Capture.PNG" width = 250 height = 100/>
+
+<b>4. Tip Calcuator:</b> This is a tip calculator gui in which you can calculate the % of tip(0% to 30%) you want to offer to the waiter and return result will be the summision  amount of bill and tip amount calculate basis the bill.
+
+<img src="Tip Calculator/Images/Capture.PNG" width = 250 height = 100/>
